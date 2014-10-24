@@ -2,5 +2,7 @@ This is a simulation of a "Slots" game from "Tiny Tower Vegas". It's known that 
 
 The way to run the simulation is to run python code:
 
-`import SlotsGame`  
-`SlotsGame.simulation()`
+``` python
+import SlotsGame
+SlotsGame.simulation()
+```
