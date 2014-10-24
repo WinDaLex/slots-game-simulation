@@ -1,0 +1,1 @@
+This is a simulation of a "Slots" game from "Tiny Tower Vegas". It's know that the average payout for a play is approx. 21.3, but I still developed this for simulating "Slots" game to calculate the expectation by statistics.
